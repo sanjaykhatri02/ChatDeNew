@@ -1,0 +1,6 @@
+framework module ChatDeNew {
+  umbrella header "ChatDeNew-umbrella.h"
+
+  export *
+  module * { export * }
+}

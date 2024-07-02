@@ -1,0 +1,16 @@
+PODS:
+  - ChatDeNew (0.1.0)
+
+DEPENDENCIES:
+  - ChatDeNew (from `../`)
+
+EXTERNAL SOURCES:
+  ChatDeNew:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ChatDeNew: 357267bb83fa8387250eac0acf334f90be75bd13
+
+PODFILE CHECKSUM: 0feb463c259fd8a5a3aec4353acf9f6caeddd065
+
+COCOAPODS: 1.15.2
