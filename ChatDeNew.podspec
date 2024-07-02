@@ -19,11 +19,11 @@ Pod::Spec.new do |s|
 
   s.description      = 'A ChatTestDemo App That is Demo. Once Intalled and the use it.'
 
-  s.homepage         = 'https://github.com/sanjay.khatri02@outlook.com/ChatDeNew'
+  s.homepage         = 'https://github.com/sanjaykhatri02/ChatDeNew'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'sanjay.khatri02@outlook.com' => 'sanjay.khatri02@outlook.com' }
-  s.source           = { :git => 'https://github.com/sanjay.khatri02@outlook.com/ChatDeNew.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/sanjaykhatri02/ChatDeNew.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'
