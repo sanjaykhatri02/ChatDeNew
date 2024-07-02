@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		047D77AC2C34334B00F9A59F /* Validator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047D77AB2C34334B00F9A59F /* Validator.swift */; };
 		0CC7C4C1EDDF6D0792AEE3B169569D5C /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8A500A470FC5D35554CC70F6A202FAA /* ReplaceMe.swift */; };
 		1B0B4F0719C5E4598AC50A655A25B498 /* Pods-ChatDeNew_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = D96D32336EA354DD1155B3F76DE5E7DA /* Pods-ChatDeNew_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		57480950C0922FFC4421AFB7F99EE3C5 /* ChatDeNew-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 511FF4D3DDF5D7146D6911163AD1F402 /* ChatDeNew-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -39,21 +40,22 @@
 /* Begin PBXFileReference section */
 		0178408CFEB8ABD98C0048698F9BCB2A /* Pods-ChatDeNew_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-ChatDeNew_Tests.modulemap"; sourceTree = "<group>"; };
 		02C1007B9E6B88101639322E66342A86 /* ChatDeNew-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "ChatDeNew-dummy.m"; sourceTree = "<group>"; };
+		047D77AB2C34334B00F9A59F /* Validator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Validator.swift; sourceTree = "<group>"; };
 		0CD9908CC954EF03144A520848EE7A56 /* Pods-ChatDeNew_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-ChatDeNew_Example.modulemap"; sourceTree = "<group>"; };
-		0F5258CDF0CAA0F4CDD02E512E134452 /* Pods-ChatDeNew_Tests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-ChatDeNew_Tests"; path = Pods_ChatDeNew_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		0F5258CDF0CAA0F4CDD02E512E134452 /* Pods_ChatDeNew_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ChatDeNew_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		1557D1FC9D408D149C0E06A2D28FE79A /* Pods-ChatDeNew_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ChatDeNew_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		167CDCE10CA9D995BD9A87434AC6C5B0 /* Pods-ChatDeNew_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ChatDeNew_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		17A52EC58314EF7C1E5C185AC829A6D7 /* ChatDeNew-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ChatDeNew-prefix.pch"; sourceTree = "<group>"; };
 		18A0603AE6B193C693551CC561F1D8B4 /* Pods-ChatDeNew_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ChatDeNew_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		3926F39758C9E8F862E26C40D85580F7 /* ChatDeNew */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = ChatDeNew; path = ChatDeNew.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		3926F39758C9E8F862E26C40D85580F7 /* ChatDeNew.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ChatDeNew.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		511FF4D3DDF5D7146D6911163AD1F402 /* ChatDeNew-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ChatDeNew-umbrella.h"; sourceTree = "<group>"; };
 		543D6ADB5D1F1D27E9DD17FFD2B7A462 /* Pods-ChatDeNew_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ChatDeNew_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		5BD5F5EB27C0396ADC06B8D63C1A85CE /* Pods-ChatDeNew_Example */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-ChatDeNew_Example"; path = Pods_ChatDeNew_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		5BD5F5EB27C0396ADC06B8D63C1A85CE /* Pods_ChatDeNew_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ChatDeNew_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		7F2D5DC4A6BD436EB6D5B57AA5586C59 /* ChatDeNew.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = ChatDeNew.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		7F2D5DC4A6BD436EB6D5B57AA5586C59 /* ChatDeNew.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = ChatDeNew.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		85E208D3A785C6D9A3DF8E2A137CAC80 /* Pods-ChatDeNew_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ChatDeNew_Example-dummy.m"; sourceTree = "<group>"; };
 		8F74EC172B783DA8D5D356E100E74E58 /* ChatDeNew-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ChatDeNew-Info.plist"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A0B75B1B0C13F772E0373B48CB2C647C /* Pods-ChatDeNew_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ChatDeNew_Example-Info.plist"; sourceTree = "<group>"; };
 		A8A500A470FC5D35554CC70F6A202FAA /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ReplaceMe.swift; path = ChatDeNew/Classes/ReplaceMe.swift; sourceTree = "<group>"; };
 		AB27657BA1712108493545B3E7AD20A7 /* Pods-ChatDeNew_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ChatDeNew_Tests.release.xcconfig"; sourceTree = "<group>"; };
@@ -61,9 +63,9 @@
 		BE1B57A6C8CC48426E3FD0DE377C033F /* Pods-ChatDeNew_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ChatDeNew_Tests-Info.plist"; sourceTree = "<group>"; };
 		C1D693A74EFE75B5BD8434B9D980D4DF /* Pods-ChatDeNew_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ChatDeNew_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		C46A7242EF920CAB356C37F156A14089 /* Pods-ChatDeNew_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ChatDeNew_Example.release.xcconfig"; sourceTree = "<group>"; };
-		C6491C1402624D7AD97E693EEBFDA569 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		C6491C1402624D7AD97E693EEBFDA569 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		C9E2CC44AC9C8DA9C5EBF985F45AE50B /* Pods-ChatDeNew_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ChatDeNew_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		D2E93D2DA5A0535BFB8BDB78FDB44D0D /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		D2E93D2DA5A0535BFB8BDB78FDB44D0D /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		D34F310920F034C5EEA4CAF8AA29A0CA /* ChatDeNew.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ChatDeNew.release.xcconfig; sourceTree = "<group>"; };
 		D62E8407F18EBD7308F9FA08E10019ED /* ChatDeNew.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ChatDeNew.debug.xcconfig; sourceTree = "<group>"; };
 		D96D32336EA354DD1155B3F76DE5E7DA /* Pods-ChatDeNew_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ChatDeNew_Example-umbrella.h"; sourceTree = "<group>"; };
@@ -143,6 +145,7 @@
 		BB32AFA04125F9E525A4EAA0BBF3F891 /* ChatDeNew */ = {
 			isa = PBXGroup;
 			children = (
+				047D77AB2C34334B00F9A59F /* Validator.swift */,
 				A8A500A470FC5D35554CC70F6A202FAA /* ReplaceMe.swift */,
 				E48B9C9D2A66664CDFDF59A810373655 /* Pod */,
 				7FDDA2AFDA55916B8B4F8D73118D667A /* Support Files */,
@@ -200,9 +203,9 @@
 		E7134DF0269C4F4EA945F461DEBBCBC0 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				3926F39758C9E8F862E26C40D85580F7 /* ChatDeNew */,
-				5BD5F5EB27C0396ADC06B8D63C1A85CE /* Pods-ChatDeNew_Example */,
-				0F5258CDF0CAA0F4CDD02E512E134452 /* Pods-ChatDeNew_Tests */,
+				3926F39758C9E8F862E26C40D85580F7 /* ChatDeNew.framework */,
+				5BD5F5EB27C0396ADC06B8D63C1A85CE /* Pods_ChatDeNew_Example.framework */,
+				0F5258CDF0CAA0F4CDD02E512E134452 /* Pods_ChatDeNew_Tests.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -268,7 +271,7 @@
 			);
 			name = ChatDeNew;
 			productName = ChatDeNew;
-			productReference = 3926F39758C9E8F862E26C40D85580F7 /* ChatDeNew */;
+			productReference = 3926F39758C9E8F862E26C40D85580F7 /* ChatDeNew.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		53FDF43921D36DE095C765948E596B0B /* Pods-ChatDeNew_Example */ = {
@@ -287,7 +290,7 @@
 			);
 			name = "Pods-ChatDeNew_Example";
 			productName = Pods_ChatDeNew_Example;
-			productReference = 5BD5F5EB27C0396ADC06B8D63C1A85CE /* Pods-ChatDeNew_Example */;
+			productReference = 5BD5F5EB27C0396ADC06B8D63C1A85CE /* Pods_ChatDeNew_Example.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		C75532325514056692A84DAC3AD82335 /* Pods-ChatDeNew_Tests */ = {
@@ -306,7 +309,7 @@
 			);
 			name = "Pods-ChatDeNew_Tests";
 			productName = Pods_ChatDeNew_Tests;
-			productReference = 0F5258CDF0CAA0F4CDD02E512E134452 /* Pods-ChatDeNew_Tests */;
+			productReference = 0F5258CDF0CAA0F4CDD02E512E134452 /* Pods_ChatDeNew_Tests.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -376,6 +379,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7E262D06F637736B7FDEA5756A6470A3 /* ChatDeNew-dummy.m in Sources */,
+				047D77AC2C34334B00F9A59F /* Validator.swift in Sources */,
 				0CC7C4C1EDDF6D0792AEE3B169569D5C /* ReplaceMe.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -422,7 +426,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-ChatDeNew_Tests/Pods-ChatDeNew_Tests-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-ChatDeNew_Tests/Pods-ChatDeNew_Tests.modulemap";
@@ -455,7 +459,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/ChatDeNew/ChatDeNew-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/ChatDeNew/ChatDeNew-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/ChatDeNew/ChatDeNew.modulemap";
 				PRODUCT_MODULE_NAME = ChatDeNew;
@@ -520,13 +524,12 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
@@ -548,7 +551,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/ChatDeNew/ChatDeNew-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/ChatDeNew/ChatDeNew-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/ChatDeNew/ChatDeNew.modulemap";
 				PRODUCT_MODULE_NAME = ChatDeNew;
@@ -580,7 +583,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-ChatDeNew_Example/Pods-ChatDeNew_Example-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-ChatDeNew_Example/Pods-ChatDeNew_Example.modulemap";
@@ -651,7 +654,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -680,7 +683,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-ChatDeNew_Example/Pods-ChatDeNew_Example-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-ChatDeNew_Example/Pods-ChatDeNew_Example.modulemap";
@@ -713,7 +716,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-ChatDeNew_Tests/Pods-ChatDeNew_Tests-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-ChatDeNew_Tests/Pods-ChatDeNew_Tests.modulemap";
