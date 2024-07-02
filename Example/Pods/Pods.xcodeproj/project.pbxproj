@@ -110,6 +110,14 @@
 			name = "Development Pods";
 			sourceTree = "<group>";
 		};
+		047D77E92C3464A400F9A59F /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				047D77AB2C34334B00F9A59F /* Validator.swift */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
 		15C17561E1D83F623A2CA37D9A822660 /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -145,7 +153,7 @@
 		BB32AFA04125F9E525A4EAA0BBF3F891 /* ChatDeNew */ = {
 			isa = PBXGroup;
 			children = (
-				047D77AB2C34334B00F9A59F /* Validator.swift */,
+				047D77E92C3464A400F9A59F /* Classes */,
 				A8A500A470FC5D35554CC70F6A202FAA /* ReplaceMe.swift */,
 				E48B9C9D2A66664CDFDF59A810373655 /* Pod */,
 				7FDDA2AFDA55916B8B4F8D73118D667A /* Support Files */,
