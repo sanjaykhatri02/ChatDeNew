@@ -30,10 +30,24 @@ Pod::Spec.new do |s|
 
 #  s.source_files = 'ChatDeNew/Classes/**/*'
   s.source_files = 'Classes/**/*.{swift,h,m}'
-  s.swift_version = '5.0'
+  s.swift_version = ['4.0', '5.0']
   
-  s.frameworks = 'UIKit', 'Foundation'
+  s.frameworks = "Foundation", "AVFoundation", "AudioToolbox", "CoreMedia", "CoreData", "ImageIO", "Photos", "SystemConfiguration", "Security", "WebKit", "CoreServices", "QuickLook"
   s.dependency 'Alamofire', '~> 5.9.0'
+  s.dependency 'SwiftyJSON'
+  s.dependency 'FMDB'
+  s.dependency 'SwiftSignalRClient'
+  s.dependency 'IQKeyboardManager'
+  s.dependency 'Firebase/Core'
+  s.dependency 'Firebase/Messaging'
+  s.dependency 'Kingfisher'
+  s.resources = [
+    'Resources/**/*.{png,jpeg,jpg,storyboard,xib}',
+    'Resources/Xib/*.xib',
+    'Resources/Assets/*.xcassets',
+    'Resources/Fonts/*.{ttf,otf}',
+    'Resources/**/*.gif'
+  ]
   
   # s.resource_bundles = {
   #   'ChatDeNew' => ['ChatDeNew/Assets/*.png']

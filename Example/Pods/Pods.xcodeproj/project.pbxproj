@@ -7,6 +7,44 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0415F0D72C3534BB00EF1112 /* Roboto-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0415F0AD2C35349300EF1112 /* Roboto-Medium.ttf */; };
+		0415F0D82C3534BB00EF1112 /* OpenSans-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0415F0AE2C35349300EF1112 /* OpenSans-SemiBold.ttf */; };
+		0415F0D92C3534BB00EF1112 /* font_extra_light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0415F0AF2C35349300EF1112 /* font_extra_light.ttf */; };
+		0415F0DA2C3534BB00EF1112 /* font_light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0415F0B02C35349300EF1112 /* font_light.ttf */; };
+		0415F0DB2C3534BB00EF1112 /* Roboto-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0415F0B12C35349300EF1112 /* Roboto-Regular.ttf */; };
+		0415F0DC2C3534BB00EF1112 /* font_semi_bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0415F0B22C35349300EF1112 /* font_semi_bold.ttf */; };
+		0415F0DD2C3534BB00EF1112 /* font_bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0415F0B32C35349300EF1112 /* font_bold.ttf */; };
+		0415F0DE2C3534BB00EF1112 /* OpenSans-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0415F0B42C35349300EF1112 /* OpenSans-Light.ttf */; };
+		0415F0DF2C3534BB00EF1112 /* brandon_light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 0415F0B52C35349300EF1112 /* brandon_light.otf */; };
+		0415F0E02C3534BB00EF1112 /* Roboto Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0415F0B62C35349300EF1112 /* Roboto Light.ttf */; };
+		0415F0E12C3534BB00EF1112 /* Sans Serif Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0415F0B72C35349300EF1112 /* Sans Serif Medium.ttf */; };
+		0415F0E22C3534BB00EF1112 /* brandon_bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 0415F0B82C35349300EF1112 /* brandon_bold.otf */; };
+		0415F0E32C3534BB00EF1112 /* OpenSans-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0415F0B92C35349300EF1112 /* OpenSans-ExtraBold.ttf */; };
+		0415F0E42C3534BB00EF1112 /* RobotoSlab-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0415F0BA2C35349300EF1112 /* RobotoSlab-Light.ttf */; };
+		0415F0E52C3534BB00EF1112 /* OpenSans-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0415F0BB2C35349300EF1112 /* OpenSans-Bold.ttf */; };
+		0415F0E62C3534BB00EF1112 /* OpenSans-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0415F0BC2C35349300EF1112 /* OpenSans-Medium.ttf */; };
+		0415F0E72C3534BB00EF1112 /* brandon_bold_2.otf in Resources */ = {isa = PBXBuildFile; fileRef = 0415F0BD2C35349300EF1112 /* brandon_bold_2.otf */; };
+		0415F0E82C3534BB00EF1112 /* font_regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0415F0BE2C35349300EF1112 /* font_regular.ttf */; };
+		0415F0E92C3534BB00EF1112 /* font_black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0415F0BF2C35349300EF1112 /* font_black.ttf */; };
+		0415F0EA2C3534BB00EF1112 /* OpenSans-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0415F0C02C35349300EF1112 /* OpenSans-Regular.ttf */; };
+		0415F0EB2C3534BB00EF1112 /* Roboto-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0415F0C12C35349300EF1112 /* Roboto-Bold.ttf */; };
+		0415F0EC2C3534BB00EF1112 /* brandon_medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 0415F0C22C35349300EF1112 /* brandon_medium.otf */; };
+		0415F0ED2C3534BB00EF1112 /* Roboto-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0415F0C32C35349300EF1112 /* Roboto-Black.ttf */; };
+		0415F0EE2C3534BB00EF1112 /* connecting.gif in Resources */ = {isa = PBXBuildFile; fileRef = 0415F0C42C35349300EF1112 /* connecting.gif */; };
+		0415F0EF2C3534BB00EF1112 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0415F0C52C35349600EF1112 /* Assets.xcassets */; };
+		0415F0FE2C3534BB00EF1112 /* cloudnew.gif in Resources */ = {isa = PBXBuildFile; fileRef = 0415F0D62C3534BB00EF1112 /* cloudnew.gif */; };
+		0415F1162C35356C00EF1112 /* ConversationCellFIleForLoginUser.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0415F1032C35356C00EF1112 /* ConversationCellFIleForLoginUser.xib */; };
+		0415F1172C35356C00EF1112 /* ConversationTableViewCellNoLoginUser.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0415F1042C35356C00EF1112 /* ConversationTableViewCellNoLoginUser.xib */; };
+		0415F1182C35356C00EF1112 /* MultiFilesCVCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0415F1062C35356C00EF1112 /* MultiFilesCVCell.xib */; };
+		0415F1192C35356C00EF1112 /* ConversationLoginUserTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0415F1072C35356C00EF1112 /* ConversationLoginUserTableViewCell.xib */; };
+		0415F11A2C35356C00EF1112 /* MultiImageCVCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0415F1092C35356C00EF1112 /* MultiImageCVCell.xib */; };
+		0415F11B2C35356C00EF1112 /* TopicsCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0415F10A2C35356C00EF1112 /* TopicsCollectionViewCell.xib */; };
+		0415F11C2C35356C00EF1112 /* ActivityLoaderCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0415F10C2C35356C00EF1112 /* ActivityLoaderCell.xib */; };
+		0415F11D2C35356C00EF1112 /* SystemsTVCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0415F10E2C35356C00EF1112 /* SystemsTVCell.xib */; };
+		0415F11E2C35356C00EF1112 /* MultiPDFCVCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0415F1102C35356C00EF1112 /* MultiPDFCVCell.xib */; };
+		0415F11F2C35356C00EF1112 /* ConversationCellFileNonLoginUser.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0415F1112C35356C00EF1112 /* ConversationCellFileNonLoginUser.xib */; };
+		0415F1202C35356C00EF1112 /* ConversationCellImageLoginUser.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0415F1122C35356C00EF1112 /* ConversationCellImageLoginUser.xib */; };
+		0415F1212C35356C00EF1112 /* ConversationCellImageNoLoginUser.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0415F1132C35356C00EF1112 /* ConversationCellImageNoLoginUser.xib */; };
 		047D77AC2C34334B00F9A59F /* Validator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047D77AB2C34334B00F9A59F /* Validator.swift */; };
 		1B0B4F0719C5E4598AC50A655A25B498 /* Pods-ChatDeNew_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = D96D32336EA354DD1155B3F76DE5E7DA /* Pods-ChatDeNew_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		57480950C0922FFC4421AFB7F99EE3C5 /* ChatDeNew-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 511FF4D3DDF5D7146D6911163AD1F402 /* ChatDeNew-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -39,6 +77,45 @@
 /* Begin PBXFileReference section */
 		0178408CFEB8ABD98C0048698F9BCB2A /* Pods-ChatDeNew_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-ChatDeNew_Tests.modulemap"; sourceTree = "<group>"; };
 		02C1007B9E6B88101639322E66342A86 /* ChatDeNew-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "ChatDeNew-dummy.m"; sourceTree = "<group>"; };
+		0415F0AD2C35349300EF1112 /* Roboto-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Medium.ttf"; sourceTree = "<group>"; };
+		0415F0AE2C35349300EF1112 /* OpenSans-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-SemiBold.ttf"; sourceTree = "<group>"; };
+		0415F0AF2C35349300EF1112 /* font_extra_light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = font_extra_light.ttf; sourceTree = "<group>"; };
+		0415F0B02C35349300EF1112 /* font_light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = font_light.ttf; sourceTree = "<group>"; };
+		0415F0B12C35349300EF1112 /* Roboto-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Regular.ttf"; sourceTree = "<group>"; };
+		0415F0B22C35349300EF1112 /* font_semi_bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = font_semi_bold.ttf; sourceTree = "<group>"; };
+		0415F0B32C35349300EF1112 /* font_bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = font_bold.ttf; sourceTree = "<group>"; };
+		0415F0B42C35349300EF1112 /* OpenSans-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-Light.ttf"; sourceTree = "<group>"; };
+		0415F0B52C35349300EF1112 /* brandon_light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = brandon_light.otf; sourceTree = "<group>"; };
+		0415F0B62C35349300EF1112 /* Roboto Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto Light.ttf"; sourceTree = "<group>"; };
+		0415F0B72C35349300EF1112 /* Sans Serif Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Sans Serif Medium.ttf"; sourceTree = "<group>"; };
+		0415F0B82C35349300EF1112 /* brandon_bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = brandon_bold.otf; sourceTree = "<group>"; };
+		0415F0B92C35349300EF1112 /* OpenSans-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-ExtraBold.ttf"; sourceTree = "<group>"; };
+		0415F0BA2C35349300EF1112 /* RobotoSlab-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "RobotoSlab-Light.ttf"; sourceTree = "<group>"; };
+		0415F0BB2C35349300EF1112 /* OpenSans-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-Bold.ttf"; sourceTree = "<group>"; };
+		0415F0BC2C35349300EF1112 /* OpenSans-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-Medium.ttf"; sourceTree = "<group>"; };
+		0415F0BD2C35349300EF1112 /* brandon_bold_2.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = brandon_bold_2.otf; sourceTree = "<group>"; };
+		0415F0BE2C35349300EF1112 /* font_regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = font_regular.ttf; sourceTree = "<group>"; };
+		0415F0BF2C35349300EF1112 /* font_black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = font_black.ttf; sourceTree = "<group>"; };
+		0415F0C02C35349300EF1112 /* OpenSans-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-Regular.ttf"; sourceTree = "<group>"; };
+		0415F0C12C35349300EF1112 /* Roboto-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Bold.ttf"; sourceTree = "<group>"; };
+		0415F0C22C35349300EF1112 /* brandon_medium.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = brandon_medium.otf; sourceTree = "<group>"; };
+		0415F0C32C35349300EF1112 /* Roboto-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Black.ttf"; sourceTree = "<group>"; };
+		0415F0C42C35349300EF1112 /* connecting.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = connecting.gif; sourceTree = "<group>"; };
+		0415F0C52C35349600EF1112 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		0415F0D62C3534BB00EF1112 /* cloudnew.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = cloudnew.gif; sourceTree = "<group>"; };
+		0415F1032C35356C00EF1112 /* ConversationCellFIleForLoginUser.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ConversationCellFIleForLoginUser.xib; sourceTree = "<group>"; };
+		0415F1042C35356C00EF1112 /* ConversationTableViewCellNoLoginUser.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ConversationTableViewCellNoLoginUser.xib; sourceTree = "<group>"; };
+		0415F1062C35356C00EF1112 /* MultiFilesCVCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MultiFilesCVCell.xib; sourceTree = "<group>"; };
+		0415F1072C35356C00EF1112 /* ConversationLoginUserTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ConversationLoginUserTableViewCell.xib; sourceTree = "<group>"; };
+		0415F1092C35356C00EF1112 /* MultiImageCVCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MultiImageCVCell.xib; sourceTree = "<group>"; };
+		0415F10A2C35356C00EF1112 /* TopicsCollectionViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TopicsCollectionViewCell.xib; sourceTree = "<group>"; };
+		0415F10C2C35356C00EF1112 /* ActivityLoaderCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ActivityLoaderCell.xib; sourceTree = "<group>"; };
+		0415F10E2C35356C00EF1112 /* SystemsTVCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SystemsTVCell.xib; sourceTree = "<group>"; };
+		0415F1102C35356C00EF1112 /* MultiPDFCVCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MultiPDFCVCell.xib; sourceTree = "<group>"; };
+		0415F1112C35356C00EF1112 /* ConversationCellFileNonLoginUser.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ConversationCellFileNonLoginUser.xib; sourceTree = "<group>"; };
+		0415F1122C35356C00EF1112 /* ConversationCellImageLoginUser.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ConversationCellImageLoginUser.xib; sourceTree = "<group>"; };
+		0415F1132C35356C00EF1112 /* ConversationCellImageNoLoginUser.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ConversationCellImageNoLoginUser.xib; sourceTree = "<group>"; };
+		0415F1222C353B3C00EF1112 /* MainChat.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = MainChat.storyboard; sourceTree = "<group>"; };
 		047D77AB2C34334B00F9A59F /* Validator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Validator.swift; sourceTree = "<group>"; };
 		0CD9908CC954EF03144A520848EE7A56 /* Pods-ChatDeNew_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-ChatDeNew_Example.modulemap"; sourceTree = "<group>"; };
 		0F5258CDF0CAA0F4CDD02E512E134452 /* Pods_ChatDeNew_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ChatDeNew_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -108,6 +185,109 @@
 			name = "Development Pods";
 			sourceTree = "<group>";
 		};
+		0415F0AB2C35340500EF1112 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				0415F0C52C35349600EF1112 /* Assets.xcassets */,
+				0415F0D62C3534BB00EF1112 /* cloudnew.gif */,
+				0415F0C42C35349300EF1112 /* connecting.gif */,
+				0415F1222C353B3C00EF1112 /* MainChat.storyboard */,
+				0415F1022C35356C00EF1112 /* Xib */,
+				0415F0AC2C35349300EF1112 /* Fonts */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		0415F0AC2C35349300EF1112 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				0415F0AD2C35349300EF1112 /* Roboto-Medium.ttf */,
+				0415F0AE2C35349300EF1112 /* OpenSans-SemiBold.ttf */,
+				0415F0AF2C35349300EF1112 /* font_extra_light.ttf */,
+				0415F0B02C35349300EF1112 /* font_light.ttf */,
+				0415F0B12C35349300EF1112 /* Roboto-Regular.ttf */,
+				0415F0B22C35349300EF1112 /* font_semi_bold.ttf */,
+				0415F0B32C35349300EF1112 /* font_bold.ttf */,
+				0415F0B42C35349300EF1112 /* OpenSans-Light.ttf */,
+				0415F0B52C35349300EF1112 /* brandon_light.otf */,
+				0415F0B62C35349300EF1112 /* Roboto Light.ttf */,
+				0415F0B72C35349300EF1112 /* Sans Serif Medium.ttf */,
+				0415F0B82C35349300EF1112 /* brandon_bold.otf */,
+				0415F0B92C35349300EF1112 /* OpenSans-ExtraBold.ttf */,
+				0415F0BA2C35349300EF1112 /* RobotoSlab-Light.ttf */,
+				0415F0BB2C35349300EF1112 /* OpenSans-Bold.ttf */,
+				0415F0BC2C35349300EF1112 /* OpenSans-Medium.ttf */,
+				0415F0BD2C35349300EF1112 /* brandon_bold_2.otf */,
+				0415F0BE2C35349300EF1112 /* font_regular.ttf */,
+				0415F0BF2C35349300EF1112 /* font_black.ttf */,
+				0415F0C02C35349300EF1112 /* OpenSans-Regular.ttf */,
+				0415F0C12C35349300EF1112 /* Roboto-Bold.ttf */,
+				0415F0C22C35349300EF1112 /* brandon_medium.otf */,
+				0415F0C32C35349300EF1112 /* Roboto-Black.ttf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		0415F1022C35356C00EF1112 /* Xib */ = {
+			isa = PBXGroup;
+			children = (
+				0415F1032C35356C00EF1112 /* ConversationCellFIleForLoginUser.xib */,
+				0415F1042C35356C00EF1112 /* ConversationTableViewCellNoLoginUser.xib */,
+				0415F1062C35356C00EF1112 /* MultiFilesCVCell.xib */,
+				0415F1072C35356C00EF1112 /* ConversationLoginUserTableViewCell.xib */,
+				0415F1092C35356C00EF1112 /* MultiImageCVCell.xib */,
+				0415F10A2C35356C00EF1112 /* TopicsCollectionViewCell.xib */,
+				0415F10C2C35356C00EF1112 /* ActivityLoaderCell.xib */,
+				0415F10E2C35356C00EF1112 /* SystemsTVCell.xib */,
+				0415F1102C35356C00EF1112 /* MultiPDFCVCell.xib */,
+				0415F1112C35356C00EF1112 /* ConversationCellFileNonLoginUser.xib */,
+				0415F1122C35356C00EF1112 /* ConversationCellImageLoginUser.xib */,
+				0415F1132C35356C00EF1112 /* ConversationCellImageNoLoginUser.xib */,
+				0415F1052C35356C00EF1112 /* MultipleFiles */,
+				0415F1082C35356C00EF1112 /* MultipleImages */,
+				0415F10B2C35356C00EF1112 /* Loader */,
+				0415F10D2C35356C00EF1112 /* SystemCell */,
+				0415F10F2C35356C00EF1112 /* MultiPDFCell */,
+			);
+			name = Xib;
+			path = ../../ChatDemo/Sources/ChatDemo/Resources/Xib;
+			sourceTree = "<group>";
+		};
+		0415F1052C35356C00EF1112 /* MultipleFiles */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = MultipleFiles;
+			sourceTree = "<group>";
+		};
+		0415F1082C35356C00EF1112 /* MultipleImages */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = MultipleImages;
+			sourceTree = "<group>";
+		};
+		0415F10B2C35356C00EF1112 /* Loader */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Loader;
+			sourceTree = "<group>";
+		};
+		0415F10D2C35356C00EF1112 /* SystemCell */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = SystemCell;
+			sourceTree = "<group>";
+		};
+		0415F10F2C35356C00EF1112 /* MultiPDFCell */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = MultiPDFCell;
+			sourceTree = "<group>";
+		};
 		047D77E92C3464A400F9A59F /* Classes */ = {
 			isa = PBXGroup;
 			children = (
@@ -151,6 +331,7 @@
 		BB32AFA04125F9E525A4EAA0BBF3F891 /* ChatDeNew */ = {
 			isa = PBXGroup;
 			children = (
+				0415F0AB2C35340500EF1112 /* Resources */,
 				047D77E92C3464A400F9A59F /* Classes */,
 				E48B9C9D2A66664CDFDF59A810373655 /* Pod */,
 				7FDDA2AFDA55916B8B4F8D73118D667A /* Support Files */,
@@ -358,6 +539,44 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0415F0DC2C3534BB00EF1112 /* font_semi_bold.ttf in Resources */,
+				0415F0E12C3534BB00EF1112 /* Sans Serif Medium.ttf in Resources */,
+				0415F0DA2C3534BB00EF1112 /* font_light.ttf in Resources */,
+				0415F0DF2C3534BB00EF1112 /* brandon_light.otf in Resources */,
+				0415F11C2C35356C00EF1112 /* ActivityLoaderCell.xib in Resources */,
+				0415F0E62C3534BB00EF1112 /* OpenSans-Medium.ttf in Resources */,
+				0415F1172C35356C00EF1112 /* ConversationTableViewCellNoLoginUser.xib in Resources */,
+				0415F1212C35356C00EF1112 /* ConversationCellImageNoLoginUser.xib in Resources */,
+				0415F0DE2C3534BB00EF1112 /* OpenSans-Light.ttf in Resources */,
+				0415F1202C35356C00EF1112 /* ConversationCellImageLoginUser.xib in Resources */,
+				0415F11B2C35356C00EF1112 /* TopicsCollectionViewCell.xib in Resources */,
+				0415F0FE2C3534BB00EF1112 /* cloudnew.gif in Resources */,
+				0415F1182C35356C00EF1112 /* MultiFilesCVCell.xib in Resources */,
+				0415F0D92C3534BB00EF1112 /* font_extra_light.ttf in Resources */,
+				0415F0DB2C3534BB00EF1112 /* Roboto-Regular.ttf in Resources */,
+				0415F0DD2C3534BB00EF1112 /* font_bold.ttf in Resources */,
+				0415F11A2C35356C00EF1112 /* MultiImageCVCell.xib in Resources */,
+				0415F11E2C35356C00EF1112 /* MultiPDFCVCell.xib in Resources */,
+				0415F1192C35356C00EF1112 /* ConversationLoginUserTableViewCell.xib in Resources */,
+				0415F0EC2C3534BB00EF1112 /* brandon_medium.otf in Resources */,
+				0415F0EE2C3534BB00EF1112 /* connecting.gif in Resources */,
+				0415F0E52C3534BB00EF1112 /* OpenSans-Bold.ttf in Resources */,
+				0415F0EA2C3534BB00EF1112 /* OpenSans-Regular.ttf in Resources */,
+				0415F0E72C3534BB00EF1112 /* brandon_bold_2.otf in Resources */,
+				0415F0E42C3534BB00EF1112 /* RobotoSlab-Light.ttf in Resources */,
+				0415F0E92C3534BB00EF1112 /* font_black.ttf in Resources */,
+				0415F0EB2C3534BB00EF1112 /* Roboto-Bold.ttf in Resources */,
+				0415F0D82C3534BB00EF1112 /* OpenSans-SemiBold.ttf in Resources */,
+				0415F0D72C3534BB00EF1112 /* Roboto-Medium.ttf in Resources */,
+				0415F11D2C35356C00EF1112 /* SystemsTVCell.xib in Resources */,
+				0415F0E82C3534BB00EF1112 /* font_regular.ttf in Resources */,
+				0415F0E02C3534BB00EF1112 /* Roboto Light.ttf in Resources */,
+				0415F0E22C3534BB00EF1112 /* brandon_bold.otf in Resources */,
+				0415F11F2C35356C00EF1112 /* ConversationCellFileNonLoginUser.xib in Resources */,
+				0415F1162C35356C00EF1112 /* ConversationCellFIleForLoginUser.xib in Resources */,
+				0415F0ED2C3534BB00EF1112 /* Roboto-Black.ttf in Resources */,
+				0415F0E32C3534BB00EF1112 /* OpenSans-ExtraBold.ttf in Resources */,
+				0415F0EF2C3534BB00EF1112 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
