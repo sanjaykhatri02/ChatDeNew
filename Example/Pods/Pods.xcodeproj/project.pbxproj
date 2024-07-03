@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		047D77AC2C34334B00F9A59F /* Validator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047D77AB2C34334B00F9A59F /* Validator.swift */; };
-		0CC7C4C1EDDF6D0792AEE3B169569D5C /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8A500A470FC5D35554CC70F6A202FAA /* ReplaceMe.swift */; };
 		1B0B4F0719C5E4598AC50A655A25B498 /* Pods-ChatDeNew_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = D96D32336EA354DD1155B3F76DE5E7DA /* Pods-ChatDeNew_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		57480950C0922FFC4421AFB7F99EE3C5 /* ChatDeNew-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 511FF4D3DDF5D7146D6911163AD1F402 /* ChatDeNew-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		6EA480F7753753F89512CFB3EE403274 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
@@ -57,7 +56,6 @@
 		8F74EC172B783DA8D5D356E100E74E58 /* ChatDeNew-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ChatDeNew-Info.plist"; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A0B75B1B0C13F772E0373B48CB2C647C /* Pods-ChatDeNew_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ChatDeNew_Example-Info.plist"; sourceTree = "<group>"; };
-		A8A500A470FC5D35554CC70F6A202FAA /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ReplaceMe.swift; path = ChatDeNew/Classes/ReplaceMe.swift; sourceTree = "<group>"; };
 		AB27657BA1712108493545B3E7AD20A7 /* Pods-ChatDeNew_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ChatDeNew_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		B15841C8EEFA5406B1A39804D274CE98 /* Pods-ChatDeNew_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ChatDeNew_Example-frameworks.sh"; sourceTree = "<group>"; };
 		BE1B57A6C8CC48426E3FD0DE377C033F /* Pods-ChatDeNew_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ChatDeNew_Tests-Info.plist"; sourceTree = "<group>"; };
@@ -154,7 +152,6 @@
 			isa = PBXGroup;
 			children = (
 				047D77E92C3464A400F9A59F /* Classes */,
-				A8A500A470FC5D35554CC70F6A202FAA /* ReplaceMe.swift */,
 				E48B9C9D2A66664CDFDF59A810373655 /* Pod */,
 				7FDDA2AFDA55916B8B4F8D73118D667A /* Support Files */,
 			);
@@ -388,7 +385,6 @@
 			files = (
 				7E262D06F637736B7FDEA5756A6470A3 /* ChatDeNew-dummy.m in Sources */,
 				047D77AC2C34334B00F9A59F /* Validator.swift in Sources */,
-				0CC7C4C1EDDF6D0792AEE3B169569D5C /* ReplaceMe.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
