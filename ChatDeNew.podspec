@@ -41,17 +41,29 @@ Pod::Spec.new do |s|
   s.dependency 'Firebase/Core'
   s.dependency 'Firebase/Messaging'
   s.dependency 'Kingfisher'
-  s.resources = [
-    'Resources/**/*.{png,jpeg,jpg,storyboard,xib}',
-    'Resources/Xib/*.xib',
-    'Resources/Assets/*.xcassets',
-    'Resources/Fonts/*.{ttf,otf}',
-    'Resources/**/*.gif'
-  ]
+#  s.resources = 'Resources/**/*'
+#  s.resources = [
+##      'Resources/**/*.{png,jpeg,jpg,gif}',
+#      'Resources/Storyboards/*.storyboard',
+##      'Resources/Xibs/*.xib',
+##      'Resources/Fonts/*.{ttf,otf}',
+##      'Resources/Assets/*.xcassets'
+#    ]
+#  s.resources = [
+#    'Resources/**/*.{png,jpeg,jpg,storyboard,xib}',
+#    'Resources/Xib/*.xib',
+#    'Resources/Assets/*.xcassets',
+#    'Resources/Fonts/*.{ttf,otf}',
+#    'Resources/**/*.gif'
+#  ]
   
-  # s.resource_bundles = {
-  #   'ChatDeNew' => ['ChatDeNew/Assets/*.png']
-  # }
+#  s.resource_bundles = {
+#    'ChatDeNewResources' => ['ChatDeNew/Resources/Storyboards/*.storyboard', 'Resources/**/*.xib', 'Resources/**/*.png']
+#  }
+  
+#   s.resource_bundles = {
+#     'ChatDeNew' => ['ChatDeNew/Assets/*.png']
+#   }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'

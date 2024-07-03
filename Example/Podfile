@@ -3,6 +3,9 @@ use_frameworks!
 platform :ios, '10.0'
 
 target 'ChatDeNew_Example' do
+  
+  pod 'SwiftyJSON'
+  
   pod 'ChatDeNew', :path => '../'
 
   target 'ChatDeNew_Tests' do
