@@ -2,7 +2,7 @@
 
 import Alamofire
 import SwiftyJSON
-import SVProgressHUD
+//import SVProgressHUD
 
 
 typealias ResponseClosure = (_ response:Any?, _ statusCode:Int)->Void

@@ -7,7 +7,7 @@
 
 import Foundation
 import UIKit
-//import SwiftEventBus
+import SwiftEventBus
 
 protocol SendUpdateSelectedFiles{
     func setUpdatedSelectedFiles(filesNames :[FileDataClass])

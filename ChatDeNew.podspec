@@ -41,6 +41,7 @@ Pod::Spec.new do |s|
   s.dependency 'Firebase/Core'
   s.dependency 'Firebase/Messaging'
   s.dependency 'Kingfisher'
+  s.dependency 'Cosmos'
 #  s.resources = 'Resources/**/*'
 #  s.resources = [
 ##      'Resources/**/*.{png,jpeg,jpg,gif}',
