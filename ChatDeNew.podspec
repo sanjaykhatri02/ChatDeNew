@@ -28,7 +28,8 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '13.0'
 
-  s.source_files = 'ChatDeNew/Classes/**/*'
+#  s.source_files = 'ChatDeNew/Classes/**/*'
+  s.source_files = 'Classes/**/*.{swift,h,m}'
   s.swift_version = '5.0'
   
   s.frameworks = 'UIKit', 'Foundation'
